@@ -15,15 +15,15 @@
 
 ## Screenshot 1: Input  
 
-![alt text](Screenshot1.png)  
+![Alt text](images/Screenshot1.png)   
 
 ## Screenshot 2: Configuration  
 
-![alt text](Screenshot2.png)  
+![Alt text](images/Screenshot2.png)   
 
 ## Screenshot 3: Output  
 
-![alt text](Screenshot3.png)
+![Alt text](images/Screenshot3.png)   
 
 ## How to run: 
 
